@@ -11,3 +11,4 @@ and then push and commit them back to our github repo.
 
 1. Clone (check)
 2. Stage and commit.
+3. And one more thing...
